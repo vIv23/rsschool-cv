@@ -17,9 +17,8 @@ I want to find an interesting project and career growth.
 - Web-development: HTML5, CSS3, JavaScript
 - Version-control: GIT, Github
 - Graphics: Photoshop
-- Languages: Intermediate English, Native Russian
 
-### Code example:
+### Code example
 
 _Create Phone Number_
 
@@ -41,3 +40,7 @@ function createPhoneNumber(numbers){
 ## Education
 
 - Dostoevsky State University '19
+
+## English language
+
+- Intermediate English
