@@ -1,2 +1,3 @@
-https://vIv23.github.io/rsschool-cv/cv
-https://vIv23.github.io/rsschool-cv
+# [Markdown](https://vIv23.github.io/rsschool-cv/cv)
+
+# [CV html+css](https://vIv23.github.io/rsschool-cv)
